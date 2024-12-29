@@ -13,4 +13,4 @@
 
 然后，在[Issues](https://github.com/ValoHalo/ProjectEradicatingIlliteracy/issues)页面按照模板添加一个Issue。
 
-最后，fork这个repo，编写文章，完成后提交Pull Request，与之前的Issue关联起来，等待检查和合并。
+最后，编写文章，完成后提交Pull Request，与之前的Issue关联起来，等待检查和合并。
